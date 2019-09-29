@@ -1,0 +1,7 @@
+{
+  "user": "root",
+  "dbname": "simsimtest",
+  "password": "Scala@1234",
+  "dbaddress": "tcp(127.0.0.1:3306)",
+  "generate": "true"
+}
